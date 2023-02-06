@@ -1,0 +1,15 @@
+C:\Users\Sasha\Desktop\Homework07\Task52\bin\Debug\net7.0\Task52.exe
+C:\Users\Sasha\Desktop\Homework07\Task52\bin\Debug\net7.0\Task52.deps.json
+C:\Users\Sasha\Desktop\Homework07\Task52\bin\Debug\net7.0\Task52.runtimeconfig.json
+C:\Users\Sasha\Desktop\Homework07\Task52\bin\Debug\net7.0\Task52.dll
+C:\Users\Sasha\Desktop\Homework07\Task52\bin\Debug\net7.0\Task52.pdb
+C:\Users\Sasha\Desktop\Homework07\Task52\obj\Debug\net7.0\Task52.csproj.AssemblyReference.cache
+C:\Users\Sasha\Desktop\Homework07\Task52\obj\Debug\net7.0\Task52.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sasha\Desktop\Homework07\Task52\obj\Debug\net7.0\Task52.AssemblyInfoInputs.cache
+C:\Users\Sasha\Desktop\Homework07\Task52\obj\Debug\net7.0\Task52.AssemblyInfo.cs
+C:\Users\Sasha\Desktop\Homework07\Task52\obj\Debug\net7.0\Task52.csproj.CoreCompileInputs.cache
+C:\Users\Sasha\Desktop\Homework07\Task52\obj\Debug\net7.0\Task52.dll
+C:\Users\Sasha\Desktop\Homework07\Task52\obj\Debug\net7.0\refint\Task52.dll
+C:\Users\Sasha\Desktop\Homework07\Task52\obj\Debug\net7.0\Task52.pdb
+C:\Users\Sasha\Desktop\Homework07\Task52\obj\Debug\net7.0\Task52.genruntimeconfig.cache
+C:\Users\Sasha\Desktop\Homework07\Task52\obj\Debug\net7.0\ref\Task52.dll
